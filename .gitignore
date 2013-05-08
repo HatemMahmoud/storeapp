@@ -1,1 +1,8 @@
+# Eclipse
 .project
+
+# OSX
+.DS_Store
+
+# Android
+bin
